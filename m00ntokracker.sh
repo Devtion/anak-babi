@@ -1,35 +1,7 @@
-echo
-echo $red"##########################$green" WELCOME "$red###########################"
-echo $yellow
-figlet -f future "Github.com/RamaMED16"
-echo
-echo $red"##########################$green" Rama Ahmed R "$red######################"
-echo
-echo $indigo"	~"$cyan"{"$white"A"$cyan"}"$green"."$yellow"Akun Moonton Cracker"$cyan
-echo $indigo"        ~"$cyan"{"$white"B"$cyan"}"$green"."$yellow"Coming Soon 500Subs"$cyan
-echo $indigo"	~"$cyan"{"$white"C"$cyan"}"$green"."$yellow"Coming Soon 700subs"$cyan
-echo
-echo $cyan"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
-echo
-echo $indigo"  +"$cyan"{"$white"IG"$cyan"}"$purple"."$green"@Ramaahmd_"$indigo"      +"$cyan"{"$white"I"$cyan"}"$green"Info"$indigo"      +"$cyan"{"$white"Q"$cyan"}"$green"Quit"$cyan
-echo $cyan"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
-echo $indigo"=============================================================="
-echo
-echo $white "╭─"$yellow"Mr.XaHmd022"$cyan" ~MED"$white
-read -p " ╰─$ "  apaan
-echo
-if [ $apaan = "A" ] || [ $apaan = "a" ]
-then
-echo
-echo
-echo
-clear
-echo
-echo
-echo
-echo
-toilet -f future "Akun Moonton Cracker" | lolcat
-echo
+# inilah algoritma coding untuk membuahkan hasil random akun
+# ya ampun d3f4c3r nih banyak yang sok"an atau gimana dah
+# astaga dahlah males wkwkwkwk -skofos
+
 echo $red "Note:Akun Random Banyak yang di Banned"
 echo
 echo $yellow "Random Akun"
@@ -276,65 +248,4 @@ sleep 1
 echo $green "javelinthrow1@yahoo.com:Ivanov2116	"
 sleep 1
 echo $red "Done Next V2 Jika 500subs"
-echo $green "╭─"$blue"Mr.XaHmd022"$cyan" ~ICA"$white
-read -p " ╰─$ "  target
-echo
-echo $red " Arigatou Gozaimasu "
-echo
-echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
-read -p "[B/Q] : " back
-fi
-
-if [ $apaan = "I" ] || [ $apaan = "i" ]
-then
-echo
-echo
-echo
-clear
-echo
-echo
-echo
-echo
-toilet -f future "   Informasi Tools" | lolcat
-echo $red"##########################$green" WELCOME "$red###########################"
-echo $green"Author  : Mr.XaHmd022 		"
-echo $purple"INSTAGRAM   : @ahmed_78988"
-echo $white"Blog    : http://blogspot-Deface.com"
-echo
-echo $yellow"                          THANKS TO :"
-echo
-echo $cyan"[+] EMAAKK  "
-echo $cyan"[+] BAPAAKK "
-echo $cyan"[+] ALLAH SWT "
-echo $red"##########################$green" WELCOME "$red###########################"
-echo $indigo"＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
-echo
-echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
-read -p "[B/Q] " back
-fi
-
-if [ $apaan = "T" ] || [ $apaan = "t" ]
-then
-cat tutorial.txt
-echo
-echo $cyan"["$yellow"B"$cyan"]"$white"back "$cyan"["$yellow"Q"$cyan"]"$white"Quit"
-read -p "[B/Q] " back
-fi
-
-if [ $apaan = "Q" ] || [ $apaan = "q" ]
-then
-echo " Terimakasih Sudah Menggunakan Tools Kami.. Follow Ig saya @Ramaahmd_ "
-exit
-clear
-fi
-
-
-if [ $back = "B" ] || [ $back = "b" ]
-then
-sh Akun-Moonton.sh
-fi
-
-if [ $back = "Q" ] || [ $back = "q" ]
-then
-clear
-fi
+# 500 subs gaesss ya ampun
